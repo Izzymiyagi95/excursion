@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+}
+
+.aqua a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    object-fit: contain;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.silver{
+    color: silver;
+}
+
+.footer{
+    text-align: right;
+    color: grey;
+}
